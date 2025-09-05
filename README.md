@@ -7,8 +7,8 @@ A Flask-based dashboard that runs `nbtscan` every 5 minutes and displays NetBIOS
 
 ### 1. Clone the Project
 
-    git clone
-    cd wnrips
+    git clone https://github.com/asamarco/WNDIPS
+    cd WNDIPS
 
 ### 2. Create and Activate Virtual Environment
 
@@ -96,3 +96,4 @@ Or use your server’s IP if running remotely.
 ## Credits
  
 Inspired by the eternal mystery of why the results of windows network discovery are completely random.
+
