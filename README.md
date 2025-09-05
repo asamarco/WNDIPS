@@ -1,4 +1,4 @@
-# WNRIPS
+# WNDIPS
 
 **Windows Name Resolution Is Plain S\*\*t**  
 A Flask-based dashboard that runs `nbtscan` every 5 minutes and displays NetBIOS scan results in a sortable, searchable web interface.
@@ -96,4 +96,5 @@ Or use your server’s IP if running remotely.
 ## Credits
  
 Inspired by the eternal mystery of why the results of windows network discovery are completely random.
+
 
