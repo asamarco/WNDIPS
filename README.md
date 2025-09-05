@@ -2,6 +2,7 @@
 
 **Windows Network Discovery Is Plain S\*\*t**  
 A Flask-based dashboard that runs `nbtscan` every 5 minutes and displays NetBIOS scan results in a sortable, searchable web interface.
+<img width="1825" height="870" alt="image" src="https://github.com/user-attachments/assets/d2a2b2fd-5e8b-415e-a818-69a0b99f0909" />
 
 ## Setup Instructions
 
@@ -96,6 +97,7 @@ Or use your server’s IP if running remotely.
 ## Credits
  
 Inspired by the eternal mystery of why the results of windows network discovery are completely random.
+
 
 
 
